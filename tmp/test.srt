@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:06,600
+Hey what's up it's Alex here. Wellcome back tomy weekly blog.
+
+2
+00:00:06,600 --> 00:00:11,600
+So we've got lots of updates on the YourCards.
+
+3
+00:00:11,600 --> 00:00:12,600
+So let's get started
+
+4
+00:00:12,600 --> 00:00:17,600
+First one is the opportunity to registrate and authorize.
+
+5
+00:00:17,600 --> 00:00:20,600
+Second one is the new UI design and new 
+
